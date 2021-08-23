@@ -1,0 +1,19 @@
+/* CSS Style */
+
+main{
+    background-image: url(../media/main-backdraft2.png);
+    background-repeat: no-repeat;
+}
+
+.row{
+    justify-content: space-between;
+}
+
+.covid{
+    justify-content:center;
+    align-items: center;
+}
+
+h1 .titel-head{
+    width: 1250px;
+}
